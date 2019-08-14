@@ -1,9 +1,9 @@
 {
     "name": "OpenMageModuleFostering/Mage_Locale_zh_CN",
     "type": "magento-module",
-    "license": "OSL-v3.0",
+    "license": "AFL-v3.0",
     "homepage": "",
-    "description": "Magento Chinese Translation",
+    "description": "zh_CN locale",
     "authors": [
     {
         "name": "Magento Core Team",
